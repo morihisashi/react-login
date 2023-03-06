@@ -1,0 +1,25 @@
+div {
+    width: 80%;
+    background-color: white;
+    text-align: center;
+    margin: auto;
+}
+  
+p {
+    margin: 10px 0px 0px 0px;
+}
+
+button {
+    background-color: black;
+    color: white;
+    margin: 10px 10px;
+    border-radius:30px;
+    border: none;
+    width: 70px;
+}
+
+button:hover {
+    background-color: blue;
+    color: white;
+}
+  

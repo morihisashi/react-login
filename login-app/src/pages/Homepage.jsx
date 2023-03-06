@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from "react-router-dom";
 import '../App.css';
 
 export function Homepage() {
@@ -11,7 +12,7 @@ export function Homepage() {
             <input></input><br></br>
             <button className={'signButton'}>サインイン</button>
             <p>パスワードを忘れた場合はこちら</p>
-            <p>新規登録はこちら</p>
+            <Link to='/signup'><p>新規登録はこちら</p></Link>
         </div>
     );
 }
