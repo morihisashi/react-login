@@ -1,0 +1,14 @@
+html {
+  background-color: rgb(212, 212, 212);
+}
+
+.div {
+  width: 80%;
+  background-color: white;
+  text-align: center;
+  margin: auto;
+}
+
+p {
+  margin: 10px 0px 0px 0px;
+}
