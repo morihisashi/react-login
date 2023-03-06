@@ -8,7 +8,8 @@ export function Homepage() {
             <p>e-mail</p>
             <input></input>
             <p>パスワード</p>
-            <input></input>
+            <input></input><br></br>
+            <button className={'signButton'}>サインイン</button>
             <p>パスワードを忘れた場合はこちら</p>
             <p>新規登録はこちら</p>
         </div>

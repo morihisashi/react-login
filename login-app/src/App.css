@@ -12,3 +12,16 @@ html {
 p {
   margin: 10px 0px 0px 0px;
 }
+
+.signButton {
+  background-color: black;
+  color: white;
+  margin: 10px 0px 0px 0px;
+  border-radius:30px;
+  border: none;
+}
+
+.signButton:hover {
+  background-color: blue;
+  color: white;
+}
